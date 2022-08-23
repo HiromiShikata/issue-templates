@@ -24,6 +24,8 @@ assignees: ''
     - [ ] Investigator(should be Engineer, 1 or more person): TODO
     - [ ] Communicator(1 person): TODO
     - [ ] Recorder(1 person): TODO
+1. Announce about incident and comunicator to stakeholder
+    - [ ] ....(send email or pubish news or...
 1. Start investigating and finishing first aid
     - [ ] problem
     - [ ] firstaid
