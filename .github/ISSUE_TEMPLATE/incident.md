@@ -2,7 +2,7 @@
 name: Incident
 about: Incident for under 8 people team
 title: ''
-labels: ''
+labels: 'incident'
 assignees: ''
 
 ---
@@ -51,10 +51,6 @@ assignees: ''
 
 
 ## Record
-### Firstaid
-
-
-
 ### Timeline(UTC)
 - xx/xx xx:xx: Trigger this incident (TODO: merged something, or change data or ...)
 - xx/xx xx:xx: Start this incident
@@ -76,6 +72,9 @@ assignees: ''
 - TODO
 
 ### First aid
+- TODO
+
+### How many people was affected?
 - TODO
 
 
@@ -110,49 +109,53 @@ xx/xx xx:xx -  2 hours
 - [ ] Share screen by Writer (0min)
 
 ##### Listup good point of us about this incident (10min)
-- ....
+- ...TODO...
+
 
 
 ##### Root problem / We finished only firstaid, how to resolve it permanently? (40min)
-
 ###### Brainstorming (20min)
 List up any idea
 *DON'T pursue liability (MUST protect psychological safety of everyone)*
-- ....
+- ...TODO...
+
+
 
 ###### Discuss and Create action items and issues (10min)
 *DON'T create action items to "be careful" or "do your best" (MUST upadte code or issue template or schedule)*
-- [ ] ....issue number... [Writer can make issue easly using task list feature on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists)
-- [ ] ....
+- [ ] ...TODO...
+
 
 
 ##### Workflow problem / How to avoid incident something like this permanently? (40min)
-
 ###### Brainstorming (20min)
 List up any idea
 *DON'T pursue liability (MUST protect psychological safety of everyone)*
-- ....
+- ...TODO...
+
+
 
 ###### Discuss and create action items and issues (10min)
 *DON'T create action items to "be careful" or "do your best" (MUST upadte code or issue template or schedule)*
-- [ ] ....issue number... [Writer can make issue easly using task list feature on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists)
-- [ ] ....
+- [ ] ...TODO...
+
+
 
 ##### Incident mode / How can future incidents be done first aid in half of this incident time? (40min)
-
 ###### Brainstorming (20min)
 List up any idea
 *DON'T pursue liability (MUST protect psychological safety of everyone)*
-- ....
+- ...TODO...
+
+
 
 ###### Discuss and create action items and issues (10min)
 *DON'T create action items to "be careful" or "do your best" (MUST upadte code or issue template or schedule)*
-- [ ] ....issue number... [Writer can make issue easly using task list feature on GitHub](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-task-lists)
-- [ ] ....
+- [ ] ...TODO...
 
 
 ##### Closing (10min)
 - [ ] Create weekly checking process to resolve all checkbox in this issue.
-- [ ] Update our agenda of incident.
+- [ ] Update incident issue template.
 - [ ] Let manager to know if you feel be broke psychological safety.
 - [ ] Output pdf of this issue and send it to stakeholders.
